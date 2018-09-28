@@ -60,6 +60,6 @@ class User extends Model implements AuthenticatableContract,
     public function verifyUser()
     {
         return $this->hasOne('App\VerifyUser');
-		echo "hello";
+		
     }
 }
