@@ -1,0 +1,39 @@
+<div class=preloader>
+                  <div class=spinner></div>
+</div>
+ <header class=main-header>
+                  <nav class="navbar navbar-fixed-top transition" data-offset-top=100 data-spy=affix>
+                     <div class=container>
+                        <div class=navbar-header>
+                           <a href="#" class="pull-right nav-trigger"id=nav-trigger><i class="icofont icofont-justify-all"></i></a>
+                           <div class="pull-left logo"><a href="/"><img alt="App Landing Page" src="upload/{{getcong('site_logo')}}"></a></div>
+                        </div>
+                        <div class="collapse navbar-collapse" id="navigation">
+                           <ul class="nav navbar-nav navbar-right">
+                              <li class=active><a href="#home">Home</a></li>
+                              <li><a href="/#overview">How it Works</a></li>
+                              <li ><a href="/#contact">Contact Us</a></li>
+                              <li><a href="/#screenshort">Partnership With us</a></li>
+							  <li><a href="/#download">Download</a></li>
+							  <li><a href="{{url('#users')}}">About Us</a></li>
+                             
+                            
+                           </ul>
+                        </div>
+                     </div>
+                  </nav>
+                  <div class="particles-js" id="particle-1"></div>
+				   <section class="padding-big bg-img page-header-area text-center">
+                     <div class="particles-js" id="particle-1"></div>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-sm-12">
+                              <div class="color-white page-header">
+                                 <h1 class="page-title">Blog</h1>
+                                 <p> <a href="/">Home</a><i class="icofont icofont-rounded-double-right"></i>Blog
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </section>
+               </header>
